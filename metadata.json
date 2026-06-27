@@ -1,0 +1,6 @@
+{
+  "name": "Bridgeport Dentists",
+  "description": "Emergency, Cosmetic, Family, and Preventive Dentistry in Bridgeport, CT. Same-day appointments available.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
